@@ -1,0 +1,14 @@
+{
+    "production": {
+        "ak": "",
+        "sk": "",
+        "bucket": "",
+        "prefix": ""
+    },
+    "test": {
+        "ak": "",
+        "sk": "",
+        "bucket": "",
+        "prefix": ""
+    }
+}
